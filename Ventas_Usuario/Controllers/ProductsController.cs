@@ -16,6 +16,7 @@ namespace User_Sales.Controllers
         public ProductsController(Context context)
         {
             _context = context;
+
         }
 
         // GET: Products
